@@ -1,0 +1,3 @@
+TestSuiteId,Description,Runmode,Browser,TestCasesFileName,Order
+1,Google Search Tests,true,chrome,test_cases_google.csv,1
+2,Another Test Suite,false,firefox,test_cases_another.csv,2

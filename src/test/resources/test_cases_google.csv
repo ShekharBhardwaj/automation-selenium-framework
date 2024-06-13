@@ -1,0 +1,6 @@
+TestCaseId,DataArray,Runmode
+1,"Selenium WebDriver",true
+2,"TestNG framework",true
+3,"Page Object Model",false
+4,"Automation testing",true
+5,"OpenCSV library",true
