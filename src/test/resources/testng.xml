@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MySeleniumTestSuite">
+    <test name="MySeleniumTests">
+        <classes>
+            <class name="com.koch.automation.tests.SampleTest"/>
+        </classes>
+    </test>
+</suite>
